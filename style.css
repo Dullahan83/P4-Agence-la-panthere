@@ -7,6 +7,29 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.padding17{
+    padding: 0 17%;
+}
+.padding27{
+    padding: 0 27%;
+}
+
+blockquote{
+    border: none;
+    margin: 0;
+    padding: 0 2.5em;
+}
+blockquote p{
+    font-size: 20px;
+    margin: 0 auto;
+    font-style: italic;
+    line-height: normal;
+    text-align: center;
+}
+figcaption{
+    font-size: 20px;
+    line-height: normal;
+}
 a,
 button {
     transition: all .3s ease-in-out;
